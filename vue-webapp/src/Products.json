@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "ARSENAL",
+    "detail": "ADIDAS ARSENAL 2023/2024 AWAY REPLICA JERSEY - TEAM SOLAR YELLOW 2/BLACK",
+    "coverimage": "src/img/ARSENAL.jpg",
+    "price": "10$"
+  },
+  {
+    "id": 2,
+    "name": "MANCHESTER UNITED",
+    "detail": "ADIDAS MAN UTD 2023/2024 HOME REPLICA JERSEY - TEAM COLLEG RED",
+    "coverimage": "src/img/MANCHESTER UNITED.jpg",
+    "price": "10$"
+  },
+  {
+    "id": 3,
+    "name": "REAL MADRID",
+    "detail": "ADIDAS REAL MADRID 2023/2024 HOME PLAYER JERSEY",
+    "coverimage": "src/img/REAL MADRID.jpg",
+    "price": "10$"
+  },
+  {
+    "id": 4,
+    "name": "GERMANY",
+    "detail": "ADIDAS GERMANY 2022 HOME REPLICA JERSEY - WHITE",
+    "coverimage": "src/img/GERMANY.jpg",
+    "price": "10$"
+  },
+  {
+    "id": 5,
+    "name": "SPAIN",
+    "detail": "ADIDAS SPAIN 2022 HOME PLAYER JERSEY - TEAM POWER RED/TEAM NAVY BLUE",
+    "coverimage": "src/img/SPAIN.jpg",
+    "price": "10$"
+  },
+  {
+    "id": 6,
+    "name": "LIVERPOOL",
+    "detail": "NIKE LIVERPOOL 2023/2024 HOME REPLICA JERSEY - GYM RED/WHITE",
+    "coverimage": "src/img/LIVERPOOL.jpg",
+    "price": "10$"
+  },
+  {
+    "id": 7,
+    "name": "BAYERN MUNICH",
+    "detail": "ADIDAS BAYERN MUNICH 2024/2025 HOME PLAYER JERSEY - RED",
+    "coverimage": "src/img/BAYERN MUNICH.jpg",
+    "price": "10$"
+  },
+  {
+    "id": 8,
+    "name": "JUVENTUS",
+    "detail": "ADIDAS JUVENTUS 2023/2024 HOME REPLICA JERSEY W - BLACK/WHITE",
+    "coverimage": "src/img/JUVENTUS.jpg",
+    "price": "10$"
+  },
+  {
+    "id": 9,
+    "name": "LEICESTER CITY",
+    "detail": "ADIDAS LEICESTER CITY 2023/2024 HOME REPLICA JERSEY - BOLD BLUE",
+    "coverimage": "src/img/LEICESTER CITY.jpg",
+    "price": "10$"
+  },
+  {
+    "id": 10,
+    "name": "BARCELONA",
+    "detail": "NIKE BARCELONA 2023/2024 HOME PLAYER JERSEY - DEEP ROYAL BLUE/NOBLE RED/WHITE",
+    "coverimage": "src/img/BARCELONA.jpg",
+    "price": "10$"
+  }
+]

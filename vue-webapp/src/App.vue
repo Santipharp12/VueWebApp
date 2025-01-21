@@ -1,17 +1,21 @@
 <script setup>
-import MyBar from './views/MyBar.vue';
-import Mycard from '@/views/My Card.vue'
+import MyBar from '@/views/MyBar.vue';
+
 </script>
-
 <template>
-  <header>
-      <MyBar />
-  </header>
-
-  <main>
-    <Mycard />
-  </main>
+  <div id="app">
+    <MyBar />
+    <router-view/>
+  </div>
 </template>
-
+<script>
+export default {
+  name :"App",
+  comments : {
+    MyBar,
+  },
+};
+</script>
 <style scoped>
+
 </style>

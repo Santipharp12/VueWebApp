@@ -1,5 +1,5 @@
 {
-  "name": "vue-webapp",
+  "name": "vue-project",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -9,11 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.5.12",
-    "vue-router": "^4.5.0"
+    "vue": "^3.5.12"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.1.4",
-    "vite": "^5.4.8"
+    "vite": "^5.4.10"
   }
 }
